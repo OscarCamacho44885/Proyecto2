@@ -1,0 +1,63 @@
+*{
+    margin: 1;
+    padding: 1;
+}
+body{
+    text-align: center;
+    background-color: black;
+}
+h1{
+    color: white;   
+    text-align: center;
+}
+h3{
+    color: white;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: white;
+}
+div ul{
+    list-style: none;
+}
+div li{
+    display: inline;
+}
+div li a{
+    text-align: justify;
+    background-color: aqua;
+    width: 50%;
+    height: 30%;
+    text-decoration: none;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+h4{
+    color: white;
+    text-align: center;
+}
+ul{
+    color: aliceblue;
+    text-align: center;
+}
+li{
+    color: aliceblue;
+    text-align: center;}
+img{
+    background-size: cover;
+}
+#MostrarSlider{
+    background-image: url("../img/ban.jpeg");
+   background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:30vh;
+    padding: 40px;
+}
+table{
+    
+    text-align: center;
+}
